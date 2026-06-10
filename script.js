@@ -3,7 +3,7 @@ const API_URL = "/.netlify/functions/rsvp";
 /*
 CAMBIAR CUANDO TENGAS EL NUEVO ÁLBUM
 */
-const ALBUM_URL = "https://photos.app.goo.gl/TU_ALBUM_AQUI";
+const ALBUM_URL = "https://photos.app.goo.gl/https://photos.app.goo.gl/EDBReECiinRtnPHq9";
 
 /*
 22 JUNIO 2026
