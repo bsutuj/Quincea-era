@@ -1,5 +1,3 @@
-
-javascript
 const API_URL = "/.netlify/functions/rsvp";
 const ALBUM_URL = "https://photos.app.goo.gl/EDBReECiinRtnPHq9";
 const EVENT_DATE = new Date("2026-06-22T16:00:00-06:00").getTime();
